@@ -38,8 +38,8 @@ class NetflixExplorer(ctk.CTk):
     def __init__(self):
         super().__init__()
         self.title("Netflix Code Explorer")
-        self.geometry("1040x740")
-        self.minsize(720, 540)
+        self.geometry("1280x1020")
+        self.minsize(1000, 800)
         self.configure(fg_color="#141414")
         self.data = load_json(resource_path("netflix_codes.json"), [])
         if not self.data:
@@ -51,6 +51,7 @@ class NetflixExplorer(ctk.CTk):
         self.favorites_only = False
         self.build_ui()
         self.render()
+        self.search_after_id = None
 
     def build_ui(self):
         header = ctk.CTkFrame(self, fg_color="transparent")
@@ -65,7 +66,7 @@ class NetflixExplorer(ctk.CTk):
         search = ctk.CTkEntry(controls, textvariable=self.search,
                               placeholder_text="Search by genre, group, or code...", height=40)
         search.pack(side="left", fill="x", expand=True, padx=(0, 10))
-        self.search.trace_add("write", lambda *_: self.render())
+        self.search.trace_add("write", lambda *_: self.schedule_search_render())
         groups = ["All genres"] + sorted({x["group"] for x in self.data})
         ctk.CTkOptionMenu(controls, variable=self.group, values=groups,
                           width=185, height=40, command=lambda _: self.render()).pack(side="left", padx=(0, 10))
@@ -152,6 +153,12 @@ class NetflixExplorer(ctk.CTk):
         self.clipboard_clear()
         self.clipboard_append(code)
         self.update()  # Keep clipboard available after the app closes.
+
+    # Add this method to NetflixExplorer
+    def schedule_search_render(self):
+        if self._search_after_id is not None:
+            self.after_cancel(self._search_after_id)
+        self._search_after_id = self.after(250, self.render)
 
 
 if __name__ == "__main__":
