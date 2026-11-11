@@ -1,0 +1,577 @@
+[
+  {
+    "name": "Action & Adventure",
+    "code": "1365",
+    "group": "Action & Adventure"
+  },
+  {
+    "name": "Action Comedies",
+    "code": "43040",
+    "group": "Action & Adventure"
+  },
+  {
+    "name": "Action Thrillers",
+    "code": "43048",
+    "group": "Action & Adventure"
+  },
+  {
+    "name": "Adventures",
+    "code": "7442",
+    "group": "Action & Adventure"
+  },
+  {
+    "name": "Superhero Movies",
+    "code": "10118",
+    "group": "Action & Adventure"
+  },
+  {
+    "name": "Martial Arts Movies",
+    "code": "8985",
+    "group": "Action & Adventure"
+  },
+  {
+    "name": "Spy Action",
+    "code": "10702",
+    "group": "Action & Adventure"
+  },
+  {
+    "name": "Westerns",
+    "code": "7700",
+    "group": "Action & Adventure"
+  },
+  {
+    "name": "Anime",
+    "code": "7424",
+    "group": "Anime"
+  },
+  {
+    "name": "Anime Action",
+    "code": "2653",
+    "group": "Anime"
+  },
+  {
+    "name": "Anime Comedies",
+    "code": "9302",
+    "group": "Anime"
+  },
+  {
+    "name": "Anime Fantasy",
+    "code": "11146",
+    "group": "Anime"
+  },
+  {
+    "name": "Anime Horror",
+    "code": "10695",
+    "group": "Anime"
+  },
+  {
+    "name": "Anime Sci-Fi",
+    "code": "2729",
+    "group": "Anime"
+  },
+  {
+    "name": "Anime Series",
+    "code": "6721",
+    "group": "Anime"
+  },
+  {
+    "name": "Animation",
+    "code": "4698",
+    "group": "Animation"
+  },
+  {
+    "name": "Adult Animation",
+    "code": "11881",
+    "group": "Animation"
+  },
+  {
+    "name": "Children & Family",
+    "code": "783",
+    "group": "Children & Family"
+  },
+  {
+    "name": "Animal Tales",
+    "code": "5507",
+    "group": "Children & Family"
+  },
+  {
+    "name": "Family Features",
+    "code": "51056",
+    "group": "Children & Family"
+  },
+  {
+    "name": "Kids TV",
+    "code": "27346",
+    "group": "Children & Family"
+  },
+  {
+    "name": "TV Cartoons",
+    "code": "11177",
+    "group": "Children & Family"
+  },
+  {
+    "name": "Classics",
+    "code": "31574",
+    "group": "Classics"
+  },
+  {
+    "name": "Film Noir",
+    "code": "7687",
+    "group": "Classics"
+  },
+  {
+    "name": "Silent Movies",
+    "code": "53310",
+    "group": "Classics"
+  },
+  {
+    "name": "Classic Sci-Fi & Fantasy",
+    "code": "47147",
+    "group": "Classics"
+  },
+  {
+    "name": "Classic Westerns",
+    "code": "47465",
+    "group": "Classics"
+  },
+  {
+    "name": "Comedy",
+    "code": "6548",
+    "group": "Comedy"
+  },
+  {
+    "name": "Dark Comedies",
+    "code": "869",
+    "group": "Comedy"
+  },
+  {
+    "name": "Mockumentaries",
+    "code": "26",
+    "group": "Comedy"
+  },
+  {
+    "name": "Romantic Comedies",
+    "code": "5475",
+    "group": "Comedy"
+  },
+  {
+    "name": "Satires",
+    "code": "4922",
+    "group": "Comedy"
+  },
+  {
+    "name": "Stand-Up Comedy",
+    "code": "11559",
+    "group": "Comedy"
+  },
+  {
+    "name": "Documentaries",
+    "code": "6839",
+    "group": "Documentaries"
+  },
+  {
+    "name": "Crime Documentaries",
+    "code": "9875",
+    "group": "Documentaries"
+  },
+  {
+    "name": "Historical Documentaries",
+    "code": "5349",
+    "group": "Documentaries"
+  },
+  {
+    "name": "Music Documentaries",
+    "code": "90361",
+    "group": "Documentaries"
+  },
+  {
+    "name": "Science & Nature Documentaries",
+    "code": "2595",
+    "group": "Documentaries"
+  },
+  {
+    "name": "Travel Documentaries",
+    "code": "1159",
+    "group": "Documentaries"
+  },
+  {
+    "name": "Drama",
+    "code": "5763",
+    "group": "Drama"
+  },
+  {
+    "name": "Crime Dramas",
+    "code": "6889",
+    "group": "Drama"
+  },
+  {
+    "name": "Courtroom Dramas",
+    "code": "528582748",
+    "group": "Drama"
+  },
+  {
+    "name": "Period Pieces",
+    "code": "12123",
+    "group": "Drama"
+  },
+  {
+    "name": "Political Dramas",
+    "code": "6616",
+    "group": "Drama"
+  },
+  {
+    "name": "Teen Dramas",
+    "code": "9299",
+    "group": "Drama"
+  },
+  {
+    "name": "Horror",
+    "code": "8711",
+    "group": "Horror"
+  },
+  {
+    "name": "Creature Features",
+    "code": "6895",
+    "group": "Horror"
+  },
+  {
+    "name": "Deep Sea Horror",
+    "code": "45028",
+    "group": "Horror"
+  },
+  {
+    "name": "Monster Movies",
+    "code": "947",
+    "group": "Horror"
+  },
+  {
+    "name": "Slasher Movies",
+    "code": "8646",
+    "group": "Horror"
+  },
+  {
+    "name": "Supernatural Horror",
+    "code": "42023",
+    "group": "Horror"
+  },
+  {
+    "name": "Zombie Horror",
+    "code": "75405",
+    "group": "Horror"
+  },
+  {
+    "name": "Music",
+    "code": "1701",
+    "group": "Music"
+  },
+  {
+    "name": "Jazz & Easy Listening",
+    "code": "10271",
+    "group": "Music"
+  },
+  {
+    "name": "Musicals",
+    "code": "13335",
+    "group": "Music"
+  },
+  {
+    "name": "Rock & Pop Concerts",
+    "code": "3278",
+    "group": "Music"
+  },
+  {
+    "name": "World Music Concerts",
+    "code": "2856",
+    "group": "Music"
+  },
+  {
+    "name": "Romance",
+    "code": "8883",
+    "group": "Romance"
+  },
+  {
+    "name": "Quirky Romance",
+    "code": "36103",
+    "group": "Romance"
+  },
+  {
+    "name": "Romantic Dramas",
+    "code": "1255",
+    "group": "Romance"
+  },
+  {
+    "name": "Romantic Favorites",
+    "code": "502675",
+    "group": "Romance"
+  },
+  {
+    "name": "Sci-Fi & Fantasy",
+    "code": "1492",
+    "group": "Sci-Fi & Fantasy"
+  },
+  {
+    "name": "Alien Sci-Fi",
+    "code": "3327",
+    "group": "Sci-Fi & Fantasy"
+  },
+  {
+    "name": "Cult Sci-Fi & Fantasy",
+    "code": "4734",
+    "group": "Sci-Fi & Fantasy"
+  },
+  {
+    "name": "Fantasy Movies",
+    "code": "9744",
+    "group": "Sci-Fi & Fantasy"
+  },
+  {
+    "name": "Sci-Fi Adventure",
+    "code": "6926",
+    "group": "Sci-Fi & Fantasy"
+  },
+  {
+    "name": "Sci-Fi Thrillers",
+    "code": "11014",
+    "group": "Sci-Fi & Fantasy"
+  },
+  {
+    "name": "Sports",
+    "code": "4370",
+    "group": "Sports"
+  },
+  {
+    "name": "Baseball Movies",
+    "code": "12339",
+    "group": "Sports"
+  },
+  {
+    "name": "Basketball Movies",
+    "code": "12762",
+    "group": "Sports"
+  },
+  {
+    "name": "Boxing Movies",
+    "code": "12443",
+    "group": "Sports"
+  },
+  {
+    "name": "Sports Documentaries",
+    "code": "180",
+    "group": "Sports"
+  },
+  {
+    "name": "Thrillers",
+    "code": "8933",
+    "group": "Thrillers"
+  },
+  {
+    "name": "Crime Thrillers",
+    "code": "10499",
+    "group": "Thrillers"
+  },
+  {
+    "name": "Gangster Movies",
+    "code": "31851",
+    "group": "Thrillers"
+  },
+  {
+    "name": "Mysteries",
+    "code": "9994",
+    "group": "Thrillers"
+  },
+  {
+    "name": "Psychological Thrillers",
+    "code": "5505",
+    "group": "Thrillers"
+  },
+  {
+    "name": "Spy Thrillers",
+    "code": "9147",
+    "group": "Thrillers"
+  },
+  {
+    "name": "TV Shows",
+    "code": "83",
+    "group": "TV Shows"
+  },
+  {
+    "name": "British TV Shows",
+    "code": "52117",
+    "group": "TV Shows"
+  },
+  {
+    "name": "Korean TV Shows",
+    "code": "67879",
+    "group": "TV Shows"
+  },
+  {
+    "name": "Miniseries",
+    "code": "4814",
+    "group": "TV Shows"
+  },
+  {
+    "name": "TV Mysteries",
+    "code": "4366",
+    "group": "TV Shows"
+  },
+  {
+    "name": "TV Sci-Fi & Fantasy",
+    "code": "1372",
+    "group": "TV Shows"
+  },
+  {
+    "name": "Foreign",
+    "code": "7462",
+    "group": "Foreign"
+  },
+  {
+    "name": "Bollywood Movies",
+    "code": "5480",
+    "group": "Foreign"
+  },
+  {
+    "name": "French Movies",
+    "code": "58807",
+    "group": "Foreign"
+  },
+  {
+    "name": "Japanese Movies",
+    "code": "10398",
+    "group": "Foreign"
+  },
+  {
+    "name": "Korean Movies",
+    "code": "5685",
+    "group": "Foreign"
+  },
+  {
+    "name": "Scandinavian Movies",
+    "code": "9292",
+    "group": "Foreign"
+  },
+  {
+    "name": "Cult Movies",
+    "code": "7627",
+    "group": "Cult Movies"
+  },
+  {
+    "name": "Campy Movies",
+    "code": "1252",
+    "group": "Cult Movies"
+  },
+  {
+    "name": "Cult Comedies",
+    "code": "9434",
+    "group": "Cult Movies"
+  },
+  {
+    "name": "Cult Horror",
+    "code": "10944",
+    "group": "Cult Movies"
+  },
+  {
+    "name": "Independent Movies",
+    "code": "7077",
+    "group": "Independent Movies"
+  },
+  {
+    "name": "Experimental Movies",
+    "code": "11079",
+    "group": "Independent Movies"
+  },
+  {
+    "name": "Independent Comedies",
+    "code": "4195",
+    "group": "Independent Movies"
+  },
+  {
+    "name": "Independent Dramas",
+    "code": "384",
+    "group": "Independent Movies"
+  },
+  {
+    "name": "Faith & Spirituality",
+    "code": "26835",
+    "group": "Faith & Spirituality"
+  },
+  {
+    "name": "Spiritual Documentaries",
+    "code": "2760",
+    "group": "Faith & Spirituality"
+  },
+  {
+    "name": "LGBTQ+ Movies",
+    "code": "5977",
+    "group": "LGBTQ+ Movies"
+  },
+  {
+    "name": "LGBTQ+ Comedies",
+    "code": "7120",
+    "group": "LGBTQ+ Movies"
+  },
+  {
+    "name": "LGBTQ+ Documentaries",
+    "code": "4720",
+    "group": "LGBTQ+ Movies"
+  },
+  {
+    "name": "Special Collections",
+    "code": "1592210",
+    "group": "Special Collections"
+  },
+  {
+    "name": "Short-Ass Movie",
+    "code": "81603903",
+    "group": "Special Collections"
+  },
+  {
+    "name": "90-Minute Movies",
+    "code": "81466194",
+    "group": "Special Collections"
+  },
+  {
+    "name": "Two-Hour Movies",
+    "code": "81396426",
+    "group": "Special Collections"
+  },
+  {
+    "name": "Christmas",
+    "code": "81346420",
+    "group": "Christmas"
+  },
+  {
+    "name": "Christmas Comedies",
+    "code": "1474015",
+    "group": "Christmas"
+  },
+  {
+    "name": "Christmas for Kids",
+    "code": "1726277",
+    "group": "Christmas"
+  },
+  {
+    "name": "Festive Favorites",
+    "code": "107985",
+    "group": "Christmas"
+  },
+  {
+    "name": "Festive Romance",
+    "code": "394388",
+    "group": "Christmas"
+  },
+  {
+    "name": "Halloween",
+    "code": "81346195",
+    "group": "Halloween"
+  },
+  {
+    "name": "Halloween Comedies",
+    "code": "81510605",
+    "group": "Halloween"
+  },
+  {
+    "name": "Halloween Favorites",
+    "code": "81336575",
+    "group": "Halloween"
+  }
+]
